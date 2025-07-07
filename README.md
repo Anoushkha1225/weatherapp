@@ -1,2 +1,1 @@
-# weatherapp
- The weather website project is a platform that displays real-time temperature data for different locations. Users can easily check the current temperature at their desired location, providing a quick snapshot of the weather conditions.
+Scenic Weather is a weather forecasting app that blends functionality with aesthetics. It provides real-time weather updates for any location, and dynamically changes the app’s background to display high-quality scenic photos of the selected place. Using image APIs and location-based services, it creates an immersive user experience that not only informs but also inspires.
